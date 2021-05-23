@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jenilzadafiya.
 - 👀 I’m interested in progrmming.
 - 🌱 I’m currently learning python,c,c++.
-- 💞️ I’m looking to collaborate with developer.
+- 💞️ I’m looking to collaborate with developers.
 - 📫 How to reach me -jenilzadafiya0077@gmail.com
 
 <!---
